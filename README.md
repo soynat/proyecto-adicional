@@ -5,11 +5,11 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto Desplegado (https://proyecto-adicional.vercel.app/)](https://proyecto-adicional.vercel.app/)
 ## Secciones de mi sitio
 
-![Blog](assets\readme\Ad1.png)
+![Blog](assets/Readme/Ad1.png)
 
-![Blog](assets\readme\Ad2.png)
+![Blog](assets\Readme\Ad2.png)
 
-![Blog](assets\readme\Ad3.png)
+![Blog](assets\Readme\Ad3.png)
 ## Tecnologías
 * HTML
 * CSS
