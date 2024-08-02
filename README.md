@@ -7,9 +7,9 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ![Blog](assets/Readme/Ad1.png)
 
-![Blog](assets\Readme\Ad2.png)
+![Blog](assets/Readme/Ad2.png)
 
-![Blog](assets\Readme\Ad3.png)
+![Blog](assets/Readme/Ad3.png)
 ## Tecnologías
 * HTML
 * CSS
